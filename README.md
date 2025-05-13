@@ -1,4 +1,4 @@
 # GitHub-Demo
 This is my first Git Repos.
 <br>
-Author:- Akshit Gupta.
+Author:- Just A Coder.
